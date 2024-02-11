@@ -91,7 +91,9 @@ ul {
   width: 420px;
   background-color: #202020;
   overflow: hidden;
+  display: flex;
   flex-direction: column;
+  justify-content: center;
 }
 
 .info-section {
